@@ -1,5 +1,5 @@
 {
-  "name": "jhnonny-five-example",
+  "name": "johnny-five-example",
   "version": "1.0.0",
   "description": "johnny five example",
   "main": "led.js",

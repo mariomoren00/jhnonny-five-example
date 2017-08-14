@@ -1,2 +1,2 @@
-# Jhnonny five example
-Jhnonny five example using nodejs and arduino 
+# Johnny five example
+Johnny five example using nodejs and arduino 
